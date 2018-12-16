@@ -1,0 +1,95 @@
+/*
+    General Style
+*/
+/*
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+
+.btn.btn-default{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 3px solid #5aff9c;
+    background: #37bb97;
+    border-radius: 0;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0;
+    color: #fafafa;
+    width: 142px;
+    height: 61px;
+    cursor: pointer;
+}
+
+}
+.btn.btn-default:hover,
+.btn.btn-default:focus{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 3px solid #fd999a;
+    background: #e85a71;
+    color: #fafafa;
+}
+.btn.btn-default.action{
+    height: 41px;
+    font-size: 18px;
+    background: #e85a71;
+    color: #fafafa;
+    border-radius: 0;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 3px solid #df405a;
+    padding: 0;
+    font-weight: 400;
+}
+.btn.activity.action{
+    height: 41px;
+    font-size: 18px;
+    background: #38b0cc;
+    color: #fafafa;
+    border-radius: 0;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 3px solid #43dbff;
+    padding: 0;
+    font-weight: 400;
+}
+
+.btn.btn-default.action:hover,
+.btn.btn-default.action:focus{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    background: #e85a71;
+    color: #fafafa;
+    border-bottom: 3px solid #fd999a;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
+
+a:focus {
+    outline: none;
+}
+
+
+/*
+    Form Registrasi Siswa
+*/
+.reg-heading{
+    padding-left: 0;
+    text-align: center; 
+    font-size: 30px;
+}
+
+
+
+*/
